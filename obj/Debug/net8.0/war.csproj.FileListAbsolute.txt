@@ -1,0 +1,14 @@
+C:\Users\itali\desktop\C#\mywork\war\bin\Debug\net8.0\war.exe
+C:\Users\itali\desktop\C#\mywork\war\bin\Debug\net8.0\war.deps.json
+C:\Users\itali\desktop\C#\mywork\war\bin\Debug\net8.0\war.runtimeconfig.json
+C:\Users\itali\desktop\C#\mywork\war\bin\Debug\net8.0\war.dll
+C:\Users\itali\desktop\C#\mywork\war\bin\Debug\net8.0\war.pdb
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\war.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\war.AssemblyInfoInputs.cache
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\war.AssemblyInfo.cs
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\war.csproj.CoreCompileInputs.cache
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\war.dll
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\refint\war.dll
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\war.pdb
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\war.genruntimeconfig.cache
+C:\Users\itali\desktop\C#\mywork\war\obj\Debug\net8.0\ref\war.dll
